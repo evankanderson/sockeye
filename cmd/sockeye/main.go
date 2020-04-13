@@ -4,7 +4,7 @@ import (
 	"context"
 	cloudevents "github.com/cloudevents/sdk-go"
 	"github.com/kelseyhightower/envconfig"
-	"github.com/n3wscott/sockeye/pkg/controller"
+	"github.com/evankanderson/sockeye/pkg/controller"
 	"log"
 	"net/http"
 	"os"
